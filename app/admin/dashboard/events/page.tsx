@@ -5,7 +5,7 @@ import { CalendarDays, Clock, MapPin, Users } from "lucide-react"
 const EVENTS = [
   {
     title: "Casting - La Magie du Soir 2026",
-    date: "20 Avril 2026",
+    date: "15 Juillet 2026",
     time: "13h00",
     location: "Cotonou, B\u00e9nin",
     description: "Casting officiel pour toutes les cat\u00e9gories artistiques. Inscription : 5.000 FCFA.",
@@ -14,7 +14,7 @@ const EVENTS = [
   },
   {
     title: "Auditions Priv\u00e9es",
-    date: "Avril 2026",
+    date: "15 Juillet 2026",
     time: "13h00",
     location: "Studio La Magie",
     description: "S\u00e9lection des finalistes devant le jury d'experts.",
@@ -23,7 +23,7 @@ const EVENTS = [
   },
   {
     title: "Gala de Prestige",
-    date: "À venir",
+    date: "09 Août 2026",
     time: "19h00",
     location: "Palais de la Musique",
     description: "La grande soir\u00e9e de repr\u00e9sentation avec les laur\u00e9ats de chaque cat\u00e9gorie.",

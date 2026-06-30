@@ -103,6 +103,7 @@ export async function POST(request: NextRequest) {
         headers: getHeaders(),
         body: JSON.stringify({
           records: [{ fields }],
+          typecast: true,
         }),
       }
     )

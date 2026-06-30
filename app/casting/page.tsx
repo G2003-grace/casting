@@ -34,7 +34,7 @@ const STEPS = [
 ]
 
 const COUNTRIES = [
-  "Bénin", "Togo", "Cote d'Ivoire", "Sénégal", "Burkina Faso",
+  "Bénin", "Togo", "Côte d'Ivoire", "Sénégal", "Burkina Faso",
   "Mali", "Niger", "Guinée", "Cameroun", "Gabon", "Congo",
   "Ghana", "Nigeria", "France", "Autre"
 ]
