@@ -114,7 +114,8 @@ export default function CastingPage() {
       const data = await response.json()
 
       if (!response.ok) {
-        setError(data.error?.message || "Erreur lors de l'envoi de votre candidature")
+        const msg = typeof data.error === "string" ? data.error : data.error?.message
+        setError(msg || "Erreur lors de l'envoi de votre candidature")
         setLoading(false)
         return
       }

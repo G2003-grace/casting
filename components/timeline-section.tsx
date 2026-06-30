@@ -9,14 +9,14 @@ const steps = [
   {
     number: "02",
     highlight: true,
-    period: "Avril 2026",
+    period: "Juillet 2026",
     title: "Casting & Auditions",
     description:
-      "S\u00e9lection des finalistes le 20 avril 2026 \u00e0 13h00. Inscription : 5.000 FCFA.",
+      "S\u00e9lection des finalistes le 15 juillet 2026 \u00e0 13h00. Inscription : 5.000 FCFA.",
   },
   {
     number: "03",
-    period: "À venir...",
+    period: "09 Août 2026",
     title: "Gala de Prestige",
     description:
       "La grande soir\u00e9e de repr\u00e9sentation. Le laur\u00e9at de chaque cat\u00e9gorie repartira avec un troph\u00e9e.",

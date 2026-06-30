@@ -34,7 +34,7 @@ export function CtaSection() {
             </a>
           </div>
           <p className="text-muted-foreground text-xs mt-6">
-            Inscriptions ouvertes jusqu{"'"}au 15 Avril 2026
+            Inscriptions ouvertes jusqu{"'"}au 15 Juillet 2026
           </p>
         </div>
       </div>
